@@ -60,13 +60,6 @@ python -m PyInstaller --onefile --noconsole --name DesktopMemo main.py
 
 개인적인 메모가 포함될 수 있기 때문에 `memo_data.json`은 GitHub에 업로드하지 않는 것을 권장합니다.
 
-## 🛠️ 사용 기술
-
-* Python
-* Tkinter
-* Windows API
-* PyInstaller
-
 ## 🗺️ Roadmap
 
 ### v0.1
